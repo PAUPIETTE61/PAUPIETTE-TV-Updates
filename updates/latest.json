@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "packageName": "fr.paupiette.tv",
+  "versionCode": 68,
+  "versionName": "5.3.1",
+  "sizeBytes": 6621660,
+  "sha256": "0c6e8df58826775888c18b31c5ad6f961e3bef639785255bb054787d41908c53",
+  "notes": "Nouvelle version stable de PAUPIETTE TV disponible.",
+  "apkUrl": "https://github.com/PAUPIETTE61/PAUPIETTE-TV-Updates/releases/download/v5.3.1/PAUPIETTE_TV_V531_SIGNED.apk"
+}
