@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "packageName": "fr.paupiette.tv",
-  "versionCode": 74,
-  "versionName": "5.3.7",
-  "sizeBytes": 6629327,
-  "sha256": "55777cc62cf614eb141ba8127f2d4b4fd3d77d4ba32c3a8f8fdb5a7c7c6769f1",
-  "notes": "Nouvelle version stable de PAUPIETTE TV disponible.",
-  "apkUrl": "https://github.com/PAUPIETTE61/PAUPIETTE-TV-Updates/releases/download/v5.3.7/PAUPIETTE_TV_V537_SIGNED.apk"
+  "versionCode": 75,
+  "versionName": "5.4.0",
+  "sizeBytes": 6635057,
+  "sha256": "55175d2dfaecb17aa4a4c555538c3412a833d3ae2853a9c3f4fb9ebccfb1ed19",
+  "notes": "V5.4.0 : accueil personnalisé, progression de lecture, épisodes suivants automatiques, recherche filtrée, dernière chaîne, fiches films, transfert manuel des favoris et performances Fire TV optimisées.",
+  "apkUrl": "https://github.com/PAUPIETTE61/PAUPIETTE-TV-Updates/releases/download/v5.4.0/PAUPIETTE_TV_V540_SIGNED.apk"
 }
